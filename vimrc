@@ -1,3 +1,6 @@
+:" Map Ctrl-A -> Start of line, Ctrl-E -> End of line
+set backspace=indent,eol,start
+
 set t_Co=256
 set guifont=Consolas\ 10
 colorscheme obsidian
